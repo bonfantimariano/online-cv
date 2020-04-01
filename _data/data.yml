@@ -85,19 +85,19 @@ skills:
 
     toolset:
       - name: C#
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: MySQL
         level: 85%
 
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: Angular
+        level: 80%
+
+      - name: MySQL
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 80%
+
       - name: Java
-        level: 60%
+        level: 65%
