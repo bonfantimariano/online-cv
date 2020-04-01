@@ -101,3 +101,12 @@ skills:
 
       - name: Java
         level: 65%
+        
+      - name: NodeJS
+        level: 65%
+        
+      - name: PostgresSQL
+        level: 65%
+        
+      - name: Swift
+        level: 50%
