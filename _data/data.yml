@@ -53,99 +53,38 @@ education:
     - degree: Information System Engineer
       university: Universidad Abierta Interamericana
       time: 2008 - 2013
-      details: 
+      details: Rosario, Santa Fe, Argentina
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Full Stack Developer
+      time: 2018 - Present
+      company: Startup Hector kitchen, Barcelona.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Develop and perform scalable maintenance on web,
+        micro-services and mobile app based primarily on C#, HTML5, MySQL, AngularJs, Cordova, NodeJS and Python.
+    - role: Mobile Developer
       time: 2014 - 2015
-      company: Google, London
+      company: Freelancer
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Development of custom mobile applications with the following technologies: HTML, JavaScript,
+        CSS (+ any 3rd party libraries) - UI framework (jQuery Mobile or Ionic+AngularJS or Bootstrap+AngularJS) 
+        - Apache Cordova.
+    - role: Software Engineering
+      time: 2011 - 2015
+      company: Accenture, Rosario, Argentina.
+      details: |
+        SAP BI - Project AES - Management of InforProviders, multiproviders, infoCubes and maintenance of the DataWarehouse model.
+        SAP FI - Project YPF - Mainly in charge of requirements analysis and configurations in the Finance module. In some cases, 
+        specific modifications in ABAP code (SAP Programming language).
+    - role: Technical Assistant
       time: 2012 - 2014
-      company: Amazon, London
+      company: Universidad Abierta Interamericana, Rosario, Argentina.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        In charge of the university computer labs. Technical assistance to students and teachers.
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C#
         level: 98%
 
       - name: Javascript & jQuery
@@ -157,8 +96,8 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: MySQL
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
