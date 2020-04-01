@@ -43,12 +43,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Professional specialised in the area of software engineering oriented to the creation of 
+      digital services and products. Currently taking my first steps as a full stack developer 
+      in a start up. My main strengths are willingness to face challenging projects, strong analytical 
+      skills and constant creativity applied to solve problems and achieve goals. 
+      Also excellent interpersonal skills and very adaptable to multicultural teams.
 education:
     - degree: MSc in Computer Science
       university: University of London
