@@ -36,6 +36,12 @@
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.cv %}
+    <li class="gitlab"><i class="fab fa-cv"></i>
+      <a href="https://linkedin.com/in/bonfantimariano/downloads/{{ sidebar.cv }}" target="_blank">Download cv</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
